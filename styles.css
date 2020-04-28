@@ -55,6 +55,11 @@ h3 {
   width: 200px;
 }
 
+.balloon{
+
+  height: 200px;
+  width: 200px;
+}
 .intro{
 width: 30%;
 margin: auto;
@@ -64,7 +69,6 @@ margin: auto;
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-
 
 }
 .web-icon {
